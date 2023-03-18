@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/aaaa/static/css/main.1413024f.css",
+    "main.js": "/aaaa/static/js/main.1784dffe.js",
+    "static/media/photo2.png": "/aaaa/static/media/photo2.04a88775712cd327f175.png",
+    "static/media/photo.png": "/aaaa/static/media/photo.cd582e185763cb8ad488.png",
+    "static/media/photo3.png": "/aaaa/static/media/photo3.5eb15e3c89c025656fb2.png",
+    "static/media/Mask Group.png": "/aaaa/static/media/Mask Group.946c59c335739880ba44.png",
+    "static/media/joanna-kosinska-340748.png": "/aaaa/static/media/joanna-kosinska-340748.7612f47a9c6eff16a2e7.png",
+    "static/media/photo4.png": "/aaaa/static/media/photo4.2ebe4ad94f9964328c96.png",
+    "index.html": "/aaaa/index.html",
+    "main.1413024f.css.map": "/aaaa/static/css/main.1413024f.css.map",
+    "main.1784dffe.js.map": "/aaaa/static/js/main.1784dffe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1413024f.css",
+    "static/js/main.1784dffe.js"
+  ]
+}
